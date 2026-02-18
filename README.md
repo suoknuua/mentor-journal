@@ -17,7 +17,6 @@ This repo is a persistent memory + coaching workflow for mentoring sessions with
 2. **Start a session**
    - Open Copilot Agent chat in VS Code.
    - Ask it to read:
-     - `.github/copilot-instructions.md`
      - `journal/CONTEXT_SNAPSHOT.md`
      - the most recent 1–3 entries in `journal/`
 
